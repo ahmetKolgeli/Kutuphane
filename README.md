@@ -47,10 +47,9 @@ Visual Studio Express
 
 Projenin Fiziksel Dosyaları:
 
-Kütüphane klasörü altında
-Visual Studio kodları,
-Prosedür Query'si,
-Veritabanı yedeği bulunmaktadır.
+Visual Studio kodları(.RAR),
+Prosedür Query'si(.SQL),
+Veritabanı yedeği(.BAK) bulunmaktadır.
 
 
 
