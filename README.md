@@ -45,6 +45,8 @@ Microsoft® SQL Server®
 
 Visual Studio Express
 
+Çalıştırmak için, veritabanı restore edildikten sonra Visual Studio içinden Data Source kendi server'ınız olarak ayarlanmalıdır.
+
 Projenin Fiziksel Dosyaları:
 
 Visual Studio kodları(.RAR),
