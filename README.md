@@ -1,8 +1,7 @@
 # Kutuphane
 
-Projeyi yapanlar: 
-
-Ahmet Kölgeli - Baran Mert
+Projeyi yapan: 
+Ahmet Kölgeli
 
 Projenin Konusu:
 
