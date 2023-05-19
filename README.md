@@ -2,7 +2,7 @@
 
 Projeyi yapan: Ahmet Kölgeli
 
-Projenin Konusu:Proje, Kütüphaneye kitap adı, yazar, sayfa sayısı, ve kitap türünü girip, 
+Projenin Konusu: Proje, Kütüphaneye kitap adı, yazar, sayfa sayısı, ve kitap türünü girip, 
 bunları veritabanında saklama ve bu veriler üzerinde işlemler yapma olanağı sunar.
 
 Proje, kayıt, giriş ve kütüphane sistemine sahiptir.
